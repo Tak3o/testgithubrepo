@@ -25,6 +25,9 @@ echo "hier mal ein bisschen quatsch zum commiten";
 echo "ein etwas 333333333anderer quatsch zum commiten";
 
 
+echo "ein etwas anderer quatsch zum commiten"
+
+
 /**
  * maybe just add closing php tags
  **/
