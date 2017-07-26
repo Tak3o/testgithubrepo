@@ -22,6 +22,9 @@
 
 
 
+echo "ein etwas anderer quatsch zum commiten"
+
+
 /**
  * maybe just add closing php tags
  **/
